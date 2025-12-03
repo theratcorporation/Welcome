@@ -20,7 +20,7 @@ Cada cita puede incluir:
 
 ---
 
-## ⚠️ Aviso legal (Requerido por Google Play)
+## ⚠️ Aviso legal 
 **Esta aplicación no representa ni está afiliada a ningún organismo público, administración, partido político o institución oficial.  
 Lo Dijeron™ no es una app de noticias ni publica contenido periodístico propio.**
 
